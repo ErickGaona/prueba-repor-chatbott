@@ -1,18 +1,3 @@
-¡Excelente\! Ahora tenemos la plantilla final y definitiva. Voy a integrar todos los detalles de tu proyecto en esta estructura profesional, incluyendo los *badges*, la tabla de contenidos mejorada y todos los detalles que hacen que ese `README` se vea tan bien.
-
-Aquí está la versión final, completamente adaptada a tu contexto.
-
------
-
-### Instrucciones
-
-1.  **Copia** todo el texto que está dentro del bloque de código de abajo.
-2.  **Pega** este contenido en el archivo `README.md` de tu repositorio en GitHub.
-3.  **Edita** la sección del equipo (`Project Team`) con los nombres y enlaces de tus compañeros.
-
------
-
-```markdown
 # 🤖 Asistente IA para Pólizas de Seguro
 
 ![Project Badge](https://img.shields.io/badge/Proyecto-Chatbot%20IA-blue)
